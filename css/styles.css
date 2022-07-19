@@ -376,6 +376,7 @@ body {
     padding: 6px 22px;
 }
 /* ----------Все------- */
+
 .but-all:hover {
     background: #2196F3;
     color: #FFFFFF;
@@ -419,6 +420,10 @@ body {
 .but-mark:focus {
     background: #2196F3;
     color: #FFFFFF;
+}
+.filter-section {
+    padding-top: 94px;
+    padding-bottom: 94px;
 }
 .filter-text {
     padding-top: 20px;
